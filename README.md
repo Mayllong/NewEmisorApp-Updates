@@ -1,1 +1,0 @@
-pasos para actualizar app
